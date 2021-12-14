@@ -23,7 +23,7 @@ import com.demo.services.EmployeeService;
 
 @RestController
 public class EmployeeController {
-	private int str;
+	private int str1;
 
 	@Autowired
 	private EmployeeService empService;
